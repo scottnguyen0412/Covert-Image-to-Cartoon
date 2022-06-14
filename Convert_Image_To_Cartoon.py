@@ -38,5 +38,5 @@ else:
     print("--------------------------------")
     print("Not Success when saving\n")
 
-#stop screen no limit time
+#stop screen no limit time and press any key to close 
 cv.waitKey(0)
